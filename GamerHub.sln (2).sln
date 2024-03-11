@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GamerHub(2)", "..\..\..\OneDrive\Bureaublad\GipSite\GamerHub\GamerHub\", "{C08EEE66-5C65-418F-BCAC-5B30FB25D3E5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49683"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Bureaublad\GipSite\GamerHub\GamerHub\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49683\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49683"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Bureaublad\GipSite\GamerHub\GamerHub\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49683\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49683"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C08EEE66-5C65-418F-BCAC-5B30FB25D3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08EEE66-5C65-418F-BCAC-5B30FB25D3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7148A944-05A9-44C7-9FC6-CE65BAB6C46D}
+	EndGlobalSection
+EndGlobal
